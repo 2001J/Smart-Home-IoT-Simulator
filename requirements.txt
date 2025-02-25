@@ -1,0 +1,9 @@
+# Smart Home IoT Simulator Requirements
+# Core dependencies
+pillow>=9.0.0  # For image processing (optional but recommended)
+tk>=0.1.0      # Tkinter for GUI (usually included with Python)
+
+# Development dependencies (optional)
+pytest>=7.0.0  # For testing
+flake8>=4.0.0  # For code linting
+black>=22.0.0  # For code formatting 
