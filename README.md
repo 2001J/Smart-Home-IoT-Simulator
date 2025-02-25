@@ -53,8 +53,8 @@ The application is built with a modular architecture:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/smart-home-iot.git
-   cd smart-home-iot
+   git clone https://github.com/2001J/Smart-Home-IoT-Simulator
+   cd Smart-Home-IoT-Simulator
    ```
 
 2. Set up a virtual environment (recommended):
